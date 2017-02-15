@@ -1,0 +1,53 @@
+body{
+	background: blue;
+}
+
+
+header{
+	margin-bottom: 20px;
+	text-align: center;
+	color: white;
+}
+
+nav{
+	padding-top: 10px;
+	padding: 10px;
+	border: 1px dashed white;
+	text-align: center;
+	padding: 10px
+}
+
+nav ul{
+	list-style: none;
+	padding: 10px;
+	padding-top:10px;
+	font-style: italic;
+	color: yellow;
+}
+
+div1{
+	padding-top: 20px;
+	text-align: center;
+	color: white;
+	padding-bottom: 20px;
+}
+
+#show{
+	padding: 40px;
+	text-align: center;
+	padding-top: 10px;
+	margin: auto;
+	width: 200px;
+	color: white;
+	padding-bottom: 10px;
+}
+
+#submit{
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 40px;
+	font: 10px;
+	height: 20px;
+	padding: 20px;
+}
